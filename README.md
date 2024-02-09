@@ -8,7 +8,7 @@ Your objective is straightforward: create a web page that mirrors the design pro
 
 ## Designer's Specifications
 
-The webpage design has been crafted by Nicolas Philippot. You can view the final screens [here] ![headphones](Dossier personnel/holbertonschool-headphones/headphones.jpg), dont voici [le lien](https://www.figma.com/file/FfnVADRC9xgI3yiZliTBYZ/Holberton-School---Headphone-company?type=design&node-id=0-1&mode=design&t=T0VxNnhDO69IivfZ-0). Ensure that your implementation closely resembles these designs.
+The webpage design has been crafted by Nicolas Philippot. You can view the final screens [here](https://www.figma.com/file/FfnVADRC9xgI3yiZliTBYZ/Holberton-School---Headphone-company?type=design&node-id=0-1&mode=design&t=T0VxNnhDO69IivfZ-0). Ensure that your implementation closely resembles these designs.
 
 ## Requirements
 
